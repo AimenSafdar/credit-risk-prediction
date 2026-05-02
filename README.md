@@ -128,5 +128,5 @@ jupyter notebook loan_prediction.ipynb
 ## 👩‍💻 Author
 
 **Aimen Safdar**
-- 💼 LinkedIn: [Aimen Safdar](https://www.linkedin.com/in/aimen-safdara1a096373)
+- 💼 LinkedIn: [Aimen Safdar](https://www.linkedin.com/in/aimen-safdar-a1a096373/)
 - 📧 safdarashahid243@gmail.com
